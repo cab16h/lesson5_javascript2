@@ -13,8 +13,7 @@ Web Application Development
 (This project will show you what tax bracket you are as well as estimate your actual tax rate and tax amount)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://cab16h.github.io/lesson5_javascript2/)
 
 ### Lessons Learned in the Assignment:
 1. (I learned how the tax brackets worked and how being married can really help you when it comes to taxes.)
